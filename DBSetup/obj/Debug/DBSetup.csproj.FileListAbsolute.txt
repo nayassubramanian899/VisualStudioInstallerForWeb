@@ -1,0 +1,17 @@
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\Components\DataStorage.dll
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\DBSetup.dll
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\DBSetup.pdb
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\DataStorage.dll
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\EncodeDecode.dll
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\DataStorage.pdb
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\bin\Debug\EncodeDecode.pdb
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\obj\Debug\DBSetup.csprojResolveAssemblyReference.cache
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\obj\Debug\DBSetup.dll
+D:\Jeff details\Projects\ZipPark\zServices\zServices\DBSetup\obj\Debug\DBSetup.pdb
+E:\Projects\VSInstallerDemoApp\DBSetup\bin\Debug\Components\DataStorage.dll
+E:\Projects\VSInstallerDemoApp\DBSetup\bin\Debug\DBSetup.dll
+E:\Projects\VSInstallerDemoApp\DBSetup\bin\Debug\DBSetup.pdb
+E:\Projects\VSInstallerDemoApp\DBSetup\obj\Debug\DBSetup.csprojResolveAssemblyReference.cache
+E:\Projects\VSInstallerDemoApp\DBSetup\obj\Debug\DBSetup.csproj.CoreCompileInputs.cache
+E:\Projects\VSInstallerDemoApp\DBSetup\obj\Debug\DBSetup.dll
+E:\Projects\VSInstallerDemoApp\DBSetup\obj\Debug\DBSetup.pdb
